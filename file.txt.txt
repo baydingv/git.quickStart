@@ -1,1 +1,2 @@
-code for python
+# code for python
+print("text for reading") 
