@@ -1,2 +1,3 @@
 # code for python
 print("text for reading") 
+# версия основная проверенная!
